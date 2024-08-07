@@ -331,7 +331,12 @@
 - domain: joelchrono12.xyz
   url: https://joelchrono12.xyz
   method: darkonly
-  last_checked: 2023-01-04
+  last_checked: 2023-01-04 
+  
+- domain: jundimubarok.com
+  url: https://jundimubarok.com
+  method: unknown
+  last_checked: 2024-08-07
 
 - domain: justsujay.github.io
   url: https://justsujay.github.io/
